@@ -1,0 +1,12 @@
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\bin\Debug\net7.0\SistemaVestasBLL.deps.json
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\bin\Debug\net7.0\SistemaVestasBLL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\bin\Debug\net7.0\SistemaVestasBLL.pdb
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.csproj.AssemblyReference.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.AssemblyInfoInputs.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.AssemblyInfo.cs
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.csproj.CoreCompileInputs.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\refint\SistemaVestasBLL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\SistemaVestasBLL.pdb
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVestasBLL\obj\Debug\net7.0\ref\SistemaVestasBLL.dll

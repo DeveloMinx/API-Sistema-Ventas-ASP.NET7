@@ -1,0 +1,15 @@
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\devel\OneDrive\Documentos\SistemaVentas\Solution1\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
